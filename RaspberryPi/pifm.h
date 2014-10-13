@@ -1,4 +1,9 @@
 /*
+*  Created by Oliver Mattos and Oskar Weigl.
+*  Source : https://github.com/rm-hull/pifm/blob/master/pifm.cpp
+*/
+
+/*
 *  Copyright (C) 2014  Thomas DUBIER
 * 
 *    This file is part of RPiHackFM.
