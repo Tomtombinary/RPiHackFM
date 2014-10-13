@@ -1,0 +1,5 @@
+Compilation :
+gcc -g *.c -std=c99 -xc -lm -lpthread
+
+Configurer la raspberry pi pour que la liaison serie soit libre voir cmdline.txt
+et http://poivron-robotique.fr/Liaison-UART-du-Raspberry-Pi.html
